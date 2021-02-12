@@ -82,7 +82,7 @@ Wanna Add me to your Group? Just click the button below!
 buttons = [
     [
         InlineKeyboardButton(
-            text="Add to Group 👥", url="t.me/userbotindobot?startgroup=true"
+            text="Add to Group 👥", url="t.me/rinassistantbot?startgroup=true"
         ),
         InlineKeyboardButton(
             text="Gban Logs 🚫", url="https://t.me/UserIndoBotBannedLog"
